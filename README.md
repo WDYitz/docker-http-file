@@ -10,11 +10,11 @@ This project demonstrates how to run a HTTP server on a Docker container using t
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/WDYitz/docker-http-file.git
+    git clone https://github.com/WDYitz/docker-http-server.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd docker-http-file
+    cd docker-http-server
     ```
 
 ## Usage
